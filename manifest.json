@@ -406,6 +406,23 @@
     "social": "social/waves-hero-clean-og.jpg"
   },
   {
+    "id": "world-orders-debt-cycle-fixed",
+    "report": "Changing World Orders",
+    "role": "hero",
+    "source": "masters/world-orders-debt-cycle-fixed.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "upscaled": false,
+    "alt": "World orders debt cycle fixed, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/world-orders-debt-cycle-fixed-480.webp",
+      "web/world-orders-debt-cycle-fixed-960.webp"
+    ],
+    "social": "social/world-orders-debt-cycle-fixed-og.jpg"
+  },
+  {
     "id": "world-orders-debt-cycle",
     "report": "Changing World Orders",
     "role": "hero",
