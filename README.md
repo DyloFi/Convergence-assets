@@ -46,3 +46,4 @@ Inline an SVG (rather than `<img>`) when you want `currentColor` to follow text 
 
 - `fourth-turning-crisis-era.png`: original kept; its wheel has uneven segments. Use `fourth-turning-crisis-era-v2.png`, regenerated with four equal quadrants in clockwise order (High, Awakening, Unraveling, Crisis).
 
+- `evolution-of-money-v2.png`: preferred. `evolution-of-money.png` (v1) is off-style (separate clip-art vignettes on white); kept for reference only.

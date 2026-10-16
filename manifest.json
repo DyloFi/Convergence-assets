@@ -35,6 +35,23 @@
     "social": "social/chainlink-verifiable-agents-og.jpg"
   },
   {
+    "id": "evolution-of-money-v2",
+    "report": "Unassigned",
+    "role": "hero",
+    "source": "masters/evolution-of-money-v2.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "upscaled": false,
+    "alt": "Evolution of money v2, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/evolution-of-money-v2-480.webp",
+      "web/evolution-of-money-v2-960.webp"
+    ],
+    "social": "social/evolution-of-money-v2-og.jpg"
+  },
+  {
     "id": "evolution-of-money",
     "report": "Unassigned",
     "role": "hero",
