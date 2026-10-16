@@ -18,6 +18,23 @@
     "social": "social/acceleration-hero-full-clean-og.jpg"
   },
   {
+    "id": "chainlink-verifiable-agents",
+    "report": "Unassigned",
+    "role": "hero",
+    "source": "masters/chainlink-verifiable-agents.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "upscaled": false,
+    "alt": "Chainlink verifiable agents, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/chainlink-verifiable-agents-480.webp",
+      "web/chainlink-verifiable-agents-960.webp"
+    ],
+    "social": "social/chainlink-verifiable-agents-og.jpg"
+  },
+  {
     "id": "fourth-turning-archetypes-fixed",
     "report": "4th Turning",
     "role": "hero",
@@ -52,6 +69,23 @@
     "social": "social/fourth-turning-archetypes-og.jpg"
   },
   {
+    "id": "fourth-turning-crisis-era",
+    "report": "4th Turning",
+    "role": "hero",
+    "source": "masters/fourth-turning-crisis-era.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "upscaled": false,
+    "alt": "Fourth turning crisis era, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/fourth-turning-crisis-era-480.webp",
+      "web/fourth-turning-crisis-era-960.webp"
+    ],
+    "social": "social/fourth-turning-crisis-era-og.jpg"
+  },
+  {
     "id": "fourth-turning-v2",
     "report": "4th Turning",
     "role": "hero",
@@ -69,6 +103,23 @@
     "social": "social/fourth-turning-v2-og.jpg"
   },
   {
+    "id": "kondratiev-perez-surge",
+    "report": "Kondratiev Waves",
+    "role": "hero",
+    "source": "masters/kondratiev-perez-surge.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "upscaled": false,
+    "alt": "Kondratiev perez surge, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/kondratiev-perez-surge-480.webp",
+      "web/kondratiev-perez-surge-960.webp"
+    ],
+    "social": "social/kondratiev-perez-surge-og.jpg"
+  },
+  {
     "id": "kondratiev-sixth-wave",
     "report": "Kondratiev Waves",
     "role": "hero",
@@ -84,6 +135,23 @@
       "web/kondratiev-sixth-wave-960.webp"
     ],
     "social": "social/kondratiev-sixth-wave-og.jpg"
+  },
+  {
+    "id": "loar-2045-timeline",
+    "report": "LoAR",
+    "role": "hero",
+    "source": "masters/loar-2045-timeline.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "upscaled": false,
+    "alt": "Loar 2045 timeline, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/loar-2045-timeline-480.webp",
+      "web/loar-2045-timeline-960.webp"
+    ],
+    "social": "social/loar-2045-timeline-og.jpg"
   },
   {
     "id": "loar-paradigm-s-curves",
@@ -336,6 +404,23 @@
       "web/waves-hero-clean-1600.webp"
     ],
     "social": "social/waves-hero-clean-og.jpg"
+  },
+  {
+    "id": "world-orders-debt-cycle",
+    "report": "Changing World Orders",
+    "role": "hero",
+    "source": "masters/world-orders-debt-cycle.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "upscaled": false,
+    "alt": "World orders debt cycle, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/world-orders-debt-cycle-480.webp",
+      "web/world-orders-debt-cycle-960.webp"
+    ],
+    "social": "social/world-orders-debt-cycle-og.jpg"
   },
   {
     "id": "world-orders-reserve-currency",

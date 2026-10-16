@@ -39,3 +39,8 @@ Inline an SVG (rather than `<img>`) when you want `currentColor` to follow text 
 
 - `master-synthesis-v1-fixed.png`: Big Cycle relabelled ~100-250 yrs and Kondratiev ~50-60 yrs, re-using the image's own lettering. The original `master-synthesis.png` is kept untouched.
 - `fourth-turning-archetypes-fixed.png`: Crisis and Unraveling labels swapped so the wheel reads High, Awakening, Unraveling, Crisis in sequence.
+
+## Known flaws
+
+- `world-orders-debt-cycle.png`: sign on top of the debt tower reads "SYSTEIBT EXPANSION" (garbled).
+- `fourth-turning-crisis-era.png`: saeculum wheel is drawn in eight segments rather than four turnings.
