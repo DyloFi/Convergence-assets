@@ -69,6 +69,23 @@
     "social": "social/fourth-turning-archetypes-og.jpg"
   },
   {
+    "id": "fourth-turning-crisis-era-v2",
+    "report": "4th Turning",
+    "role": "hero",
+    "source": "masters/fourth-turning-crisis-era-v2.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "upscaled": false,
+    "alt": "Fourth turning crisis era v2, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/fourth-turning-crisis-era-v2-480.webp",
+      "web/fourth-turning-crisis-era-v2-960.webp"
+    ],
+    "social": "social/fourth-turning-crisis-era-v2-og.jpg"
+  },
+  {
     "id": "fourth-turning-crisis-era",
     "report": "4th Turning",
     "role": "hero",
