@@ -52,23 +52,6 @@
     "social": "social/evolution-of-money-v2-og.jpg"
   },
   {
-    "id": "evolution-of-money",
-    "report": "Unassigned",
-    "role": "hero",
-    "source": "masters/evolution-of-money.png",
-    "size": [
-      1536,
-      1024
-    ],
-    "upscaled": false,
-    "alt": "Evolution of money, monochrome retro-futurist pencil concept art",
-    "web": [
-      "web/evolution-of-money-480.webp",
-      "web/evolution-of-money-960.webp"
-    ],
-    "social": "social/evolution-of-money-og.jpg"
-  },
-  {
     "id": "fourth-turning-archetypes-fixed",
     "report": "4th Turning",
     "role": "hero",
