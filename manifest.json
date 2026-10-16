@@ -35,6 +35,23 @@
     "social": "social/chainlink-verifiable-agents-og.jpg"
   },
   {
+    "id": "evolution-of-money-river",
+    "report": "Unassigned",
+    "role": "hero",
+    "source": "masters/evolution-of-money-river.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "upscaled": false,
+    "alt": "Evolution of money river, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/evolution-of-money-river-480.webp",
+      "web/evolution-of-money-river-960.webp"
+    ],
+    "social": "social/evolution-of-money-river-og.jpg"
+  },
+  {
     "id": "evolution-of-money",
     "report": "Unassigned",
     "role": "hero",
