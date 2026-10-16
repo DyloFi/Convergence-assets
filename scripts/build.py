@@ -77,10 +77,12 @@ def trace_svg(img, stem):
 manifest = []
 for src in ("masters", "crops"):
     for f in sorted((ROOT / src).glob("*.png")):
-        stem, img = f.stem, Image.open(f)
+        stem = f.stem
+        up = ROOT / "upscaled" / f.name  # Real-ESRGAN version, when one exists, feeds the web sizes
+        img = Image.open(up if up.exists() else f)
         role = role_for(stem, src)
         e = {"id": stem, "report": report_for(stem), "role": role, "source": f"{src}/{f.name}",
-             "size": [img.width, img.height], "alt": alt_for(stem), "web": web_sizes(img, stem)}
+             "size": [img.width, img.height], "upscaled": up.exists(), "alt": alt_for(stem), "web": web_sizes(img, stem)}
         if src == "masters" and not stem.startswith("sheet-"):
             e["social"] = social_card(img, stem)
         if role in ("icon", "logo") and not stem.endswith("s-icons"):  # strips of many tiny icons trace badly

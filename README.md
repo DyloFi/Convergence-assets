@@ -6,6 +6,7 @@ Art library for the Convergence research reports. Monochrome retro-futurist penc
 |---|---|---|
 | `masters/` | Full-res originals: `sheet-*` concept sheets, `*-clean` cleaned heroes, single report heroes | Never. Add only |
 | `crops/` | Pieces cut from the sheets (heroes, banners, vignettes, icons, charts) | Add only |
+| `upscaled/` | Real-ESRGAN x4plus versions of every crop and sub-1536 hero (65% ESRGAN blended with 35% Lanczos to keep pencil grain). `scripts/upscale.py` | Generated |
 | `web/` | WebP at 480/960/1600 px wide (only sizes up to the source width) | Generated |
 | `social/` | 1200x630 share cards for every hero | Generated |
 | `svg/` | Vector-traced icons and logos, `fill="currentColor"` so CSS sets the colour | Generated |
@@ -34,7 +35,7 @@ Inline an SVG (rather than `<img>`) when you want `currentColor` to follow text 
 
 `<report-subject>-<role>[-variant].png`, e.g. `world-orders-reserve-currency.png`, `waves-icon-train.png`.
 
-## Known fixes needed
+## Corrected versions (use these)
 
-- `master-synthesis.png` labels Dalio's Big Cycle ~250-400 yrs; should be ~100-250 (v2 is correct).
-- `fourth-turning-archetypes.png` wheel shows the four turnings out of sequence.
+- `master-synthesis-v1-fixed.png`: Big Cycle relabelled ~100-250 yrs and Kondratiev ~50-60 yrs, re-using the image's own lettering. The original `master-synthesis.png` is kept untouched.
+- `fourth-turning-archetypes-fixed.png`: Crisis and Unraveling labels swapped so the wheel reads High, Awakening, Unraveling, Crisis in sequence.
