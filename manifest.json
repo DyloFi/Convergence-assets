@@ -1,0 +1,1203 @@
+[
+  {
+    "id": "acceleration-hero-full-clean",
+    "report": "LoAR",
+    "role": "hero",
+    "source": "masters/acceleration-hero-full-clean.png",
+    "size": [
+      1104,
+      975
+    ],
+    "alt": "Acceleration hero full, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/acceleration-hero-full-clean-480.webp",
+      "web/acceleration-hero-full-clean-960.webp"
+    ],
+    "social": "social/acceleration-hero-full-clean-og.jpg"
+  },
+  {
+    "id": "fourth-turning-archetypes",
+    "report": "4th Turning",
+    "role": "hero",
+    "source": "masters/fourth-turning-archetypes.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alt": "Fourth turning archetypes, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/fourth-turning-archetypes-480.webp",
+      "web/fourth-turning-archetypes-960.webp"
+    ],
+    "social": "social/fourth-turning-archetypes-og.jpg"
+  },
+  {
+    "id": "fourth-turning-v2",
+    "report": "4th Turning",
+    "role": "hero",
+    "source": "masters/fourth-turning-v2.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alt": "Fourth turning v2, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/fourth-turning-v2-480.webp",
+      "web/fourth-turning-v2-960.webp"
+    ],
+    "social": "social/fourth-turning-v2-og.jpg"
+  },
+  {
+    "id": "kondratiev-sixth-wave",
+    "report": "Kondratiev Waves",
+    "role": "hero",
+    "source": "masters/kondratiev-sixth-wave.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alt": "Kondratiev sixth wave, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/kondratiev-sixth-wave-480.webp",
+      "web/kondratiev-sixth-wave-960.webp"
+    ],
+    "social": "social/kondratiev-sixth-wave-og.jpg"
+  },
+  {
+    "id": "loar-paradigm-s-curves",
+    "report": "LoAR",
+    "role": "hero",
+    "source": "masters/loar-paradigm-s-curves.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alt": "Loar paradigm s curves, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/loar-paradigm-s-curves-480.webp",
+      "web/loar-paradigm-s-curves-960.webp"
+    ],
+    "social": "social/loar-paradigm-s-curves-og.jpg"
+  },
+  {
+    "id": "master-synthesis-v2",
+    "report": "Master Synthesis",
+    "role": "hero",
+    "source": "masters/master-synthesis-v2.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alt": "Master synthesis v2, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/master-synthesis-v2-480.webp",
+      "web/master-synthesis-v2-960.webp"
+    ],
+    "social": "social/master-synthesis-v2-og.jpg"
+  },
+  {
+    "id": "master-synthesis",
+    "report": "Master Synthesis",
+    "role": "hero",
+    "source": "masters/master-synthesis.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alt": "Master synthesis, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/master-synthesis-480.webp",
+      "web/master-synthesis-960.webp"
+    ],
+    "social": "social/master-synthesis-og.jpg"
+  },
+  {
+    "id": "protocol-hero-station-clean",
+    "report": "Chainlink",
+    "role": "hero",
+    "source": "masters/protocol-hero-station-clean.png",
+    "size": [
+      992,
+      1085
+    ],
+    "alt": "Protocol hero station, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/protocol-hero-station-clean-480.webp",
+      "web/protocol-hero-station-clean-960.webp"
+    ],
+    "social": "social/protocol-hero-station-clean-og.jpg"
+  },
+  {
+    "id": "protocol-landscape-strip-clean",
+    "report": "Chainlink",
+    "role": "strip",
+    "source": "masters/protocol-landscape-strip-clean.png",
+    "size": [
+      1863,
+      560
+    ],
+    "alt": "Protocol landscape strip, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/protocol-landscape-strip-clean-480.webp",
+      "web/protocol-landscape-strip-clean-960.webp",
+      "web/protocol-landscape-strip-clean-1600.webp"
+    ],
+    "social": "social/protocol-landscape-strip-clean-og.jpg"
+  },
+  {
+    "id": "sheet-chainlink-cube",
+    "report": "Chainlink",
+    "role": "sheet",
+    "source": "masters/sheet-chainlink-cube.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alt": "Sheet chainlink cube, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/sheet-chainlink-cube-480.webp",
+      "web/sheet-chainlink-cube-960.webp"
+    ]
+  },
+  {
+    "id": "sheet-chainlink-protocol",
+    "report": "Chainlink",
+    "role": "sheet",
+    "source": "masters/sheet-chainlink-protocol.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alt": "Sheet chainlink protocol, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/sheet-chainlink-protocol-480.webp",
+      "web/sheet-chainlink-protocol-960.webp"
+    ]
+  },
+  {
+    "id": "sheet-changing-world-orders",
+    "report": "Changing World Orders",
+    "role": "sheet",
+    "source": "masters/sheet-changing-world-orders.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alt": "Sheet changing world orders, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/sheet-changing-world-orders-480.webp",
+      "web/sheet-changing-world-orders-960.webp"
+    ]
+  },
+  {
+    "id": "sheet-kondratiev-waves",
+    "report": "Kondratiev Waves",
+    "role": "sheet",
+    "source": "masters/sheet-kondratiev-waves.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alt": "Sheet kondratiev waves, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/sheet-kondratiev-waves-480.webp",
+      "web/sheet-kondratiev-waves-960.webp"
+    ]
+  },
+  {
+    "id": "sheet-law-of-accelerating-returns",
+    "report": "LoAR",
+    "role": "sheet",
+    "source": "masters/sheet-law-of-accelerating-returns.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alt": "Sheet law of accelerating returns, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/sheet-law-of-accelerating-returns-480.webp",
+      "web/sheet-law-of-accelerating-returns-960.webp"
+    ]
+  },
+  {
+    "id": "sheet-observer-effect",
+    "report": "Observer Effect",
+    "role": "sheet",
+    "source": "masters/sheet-observer-effect.png",
+    "size": [
+      1224,
+      1285
+    ],
+    "alt": "Sheet observer effect, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/sheet-observer-effect-480.webp",
+      "web/sheet-observer-effect-960.webp"
+    ]
+  },
+  {
+    "id": "singularity-alignment",
+    "report": "Technological Singularity",
+    "role": "hero",
+    "source": "masters/singularity-alignment.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alt": "Singularity alignment, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/singularity-alignment-480.webp",
+      "web/singularity-alignment-960.webp"
+    ],
+    "social": "social/singularity-alignment-og.jpg"
+  },
+  {
+    "id": "technological-singularity",
+    "report": "Technological Singularity",
+    "role": "hero",
+    "source": "masters/technological-singularity.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alt": "Technological singularity, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/technological-singularity-480.webp",
+      "web/technological-singularity-960.webp"
+    ],
+    "social": "social/technological-singularity-og.jpg"
+  },
+  {
+    "id": "waves-hero-clean",
+    "report": "Kondratiev Waves",
+    "role": "hero",
+    "source": "masters/waves-hero-clean.png",
+    "size": [
+      1104,
+      960
+    ],
+    "alt": "Waves hero, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-hero-clean-480.webp",
+      "web/waves-hero-clean-960.webp"
+    ],
+    "social": "social/waves-hero-clean-og.jpg"
+  },
+  {
+    "id": "world-orders-reserve-currency",
+    "report": "Changing World Orders",
+    "role": "hero",
+    "source": "masters/world-orders-reserve-currency.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "alt": "World orders reserve currency, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/world-orders-reserve-currency-480.webp",
+      "web/world-orders-reserve-currency-960.webp"
+    ],
+    "social": "social/world-orders-reserve-currency-og.jpg"
+  },
+  {
+    "id": "worldorders-hero-globe-clean",
+    "report": "Changing World Orders",
+    "role": "hero",
+    "source": "masters/worldorders-hero-globe-clean.png",
+    "size": [
+      1037,
+      1024
+    ],
+    "alt": "Worldorders hero globe, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/worldorders-hero-globe-clean-480.webp",
+      "web/worldorders-hero-globe-clean-960.webp"
+    ],
+    "social": "social/worldorders-hero-globe-clean-og.jpg"
+  },
+  {
+    "id": "acceleration-banner",
+    "report": "LoAR",
+    "role": "banner",
+    "source": "crops/acceleration-banner.png",
+    "size": [
+      880,
+      440
+    ],
+    "alt": "Acceleration banner, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/acceleration-banner-480.webp"
+    ]
+  },
+  {
+    "id": "acceleration-better-systems",
+    "report": "LoAR",
+    "role": "detail",
+    "source": "crops/acceleration-better-systems.png",
+    "size": [
+      225,
+      320
+    ],
+    "alt": "Acceleration better systems, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/acceleration-better-systems-225.webp"
+    ]
+  },
+  {
+    "id": "acceleration-coin-stack",
+    "report": "LoAR",
+    "role": "detail",
+    "source": "crops/acceleration-coin-stack.png",
+    "size": [
+      190,
+      330
+    ],
+    "alt": "Acceleration coin stack, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/acceleration-coin-stack-190.webp"
+    ]
+  },
+  {
+    "id": "acceleration-growth-curve",
+    "report": "LoAR",
+    "role": "detail",
+    "source": "crops/acceleration-growth-curve.png",
+    "size": [
+      360,
+      235
+    ],
+    "alt": "Acceleration growth curve, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/acceleration-growth-curve-360.webp"
+    ]
+  },
+  {
+    "id": "acceleration-hero-full",
+    "report": "LoAR",
+    "role": "hero",
+    "source": "crops/acceleration-hero-full.png",
+    "size": [
+      1104,
+      975
+    ],
+    "alt": "Acceleration hero full, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/acceleration-hero-full-480.webp",
+      "web/acceleration-hero-full-960.webp"
+    ]
+  },
+  {
+    "id": "acceleration-hero-tower",
+    "report": "LoAR",
+    "role": "hero",
+    "source": "crops/acceleration-hero-tower.png",
+    "size": [
+      550,
+      1000
+    ],
+    "alt": "Acceleration hero tower, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/acceleration-hero-tower-480.webp"
+    ]
+  },
+  {
+    "id": "acceleration-linear-vs-exp",
+    "report": "LoAR",
+    "role": "detail",
+    "source": "crops/acceleration-linear-vs-exp.png",
+    "size": [
+      265,
+      165
+    ],
+    "alt": "Acceleration linear vs exp, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/acceleration-linear-vs-exp-265.webp"
+    ]
+  },
+  {
+    "id": "acceleration-steps-icons",
+    "report": "LoAR",
+    "role": "icon",
+    "source": "crops/acceleration-steps-icons.png",
+    "size": [
+      220,
+      285
+    ],
+    "alt": "Acceleration steps icons, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/acceleration-steps-icons-220.webp"
+    ]
+  },
+  {
+    "id": "cube-call-response",
+    "report": "Chainlink",
+    "role": "detail",
+    "source": "crops/cube-call-response.png",
+    "size": [
+      380,
+      170
+    ],
+    "alt": "Cube call response, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/cube-call-response-380.webp"
+    ]
+  },
+  {
+    "id": "cube-chain-links",
+    "report": "Chainlink",
+    "role": "detail",
+    "source": "crops/cube-chain-links.png",
+    "size": [
+      305,
+      170
+    ],
+    "alt": "Cube chain links, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/cube-chain-links-305.webp"
+    ]
+  },
+  {
+    "id": "cube-figure-globe",
+    "report": "Chainlink",
+    "role": "figure",
+    "source": "crops/cube-figure-globe.png",
+    "size": [
+      756,
+      344
+    ],
+    "alt": "Cube figure globe, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/cube-figure-globe-480.webp"
+    ]
+  },
+  {
+    "id": "cube-hero",
+    "report": "Chainlink",
+    "role": "hero",
+    "source": "crops/cube-hero.png",
+    "size": [
+      975,
+      775
+    ],
+    "alt": "Cube hero, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/cube-hero-480.webp",
+      "web/cube-hero-960.webp"
+    ]
+  },
+  {
+    "id": "cube-icon-small-cube",
+    "report": "Chainlink",
+    "role": "icon",
+    "source": "crops/cube-icon-small-cube.png",
+    "size": [
+      120,
+      125
+    ],
+    "alt": "Cube icon small cube, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/cube-icon-small-cube-120.webp"
+    ],
+    "svg": "svg/cube-icon-small-cube.svg"
+  },
+  {
+    "id": "cube-protocol-diagram",
+    "report": "Chainlink",
+    "role": "diagram",
+    "source": "crops/cube-protocol-diagram.png",
+    "size": [
+      490,
+      360
+    ],
+    "alt": "Cube protocol diagram, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/cube-protocol-diagram-480.webp"
+    ]
+  },
+  {
+    "id": "cube-smart-contracts",
+    "report": "Chainlink",
+    "role": "detail",
+    "source": "crops/cube-smart-contracts.png",
+    "size": [
+      500,
+      190
+    ],
+    "alt": "Cube smart contracts, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/cube-smart-contracts-480.webp"
+    ]
+  },
+  {
+    "id": "observer-figure-on-rock",
+    "report": "Observer Effect",
+    "role": "figure",
+    "source": "crops/observer-figure-on-rock.png",
+    "size": [
+      275,
+      200
+    ],
+    "alt": "Observer figure on rock, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/observer-figure-on-rock-275.webp"
+    ]
+  },
+  {
+    "id": "observer-hero-head",
+    "report": "Observer Effect",
+    "role": "hero",
+    "source": "crops/observer-hero-head.png",
+    "size": [
+      500,
+      995
+    ],
+    "alt": "Observer hero head, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/observer-hero-head-480.webp"
+    ]
+  },
+  {
+    "id": "observer-landscape-banner",
+    "report": "Observer Effect",
+    "role": "banner",
+    "source": "crops/observer-landscape-banner.png",
+    "size": [
+      655,
+      295
+    ],
+    "alt": "Observer landscape banner, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/observer-landscape-banner-480.webp"
+    ]
+  },
+  {
+    "id": "observer-pod",
+    "report": "Observer Effect",
+    "role": "detail",
+    "source": "crops/observer-pod.png",
+    "size": [
+      195,
+      345
+    ],
+    "alt": "Observer pod, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/observer-pod-195.webp"
+    ]
+  },
+  {
+    "id": "observer-quantum-graphs",
+    "report": "Observer Effect",
+    "role": "detail",
+    "source": "crops/observer-quantum-graphs.png",
+    "size": [
+      110,
+      340
+    ],
+    "alt": "Observer quantum graphs, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/observer-quantum-graphs-110.webp"
+    ]
+  },
+  {
+    "id": "observer-venn",
+    "report": "Observer Effect",
+    "role": "detail",
+    "source": "crops/observer-venn.png",
+    "size": [
+      215,
+      140
+    ],
+    "alt": "Observer venn, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/observer-venn-215.webp"
+    ]
+  },
+  {
+    "id": "observer-vignette-after",
+    "report": "Observer Effect",
+    "role": "vignette",
+    "source": "crops/observer-vignette-after.png",
+    "size": [
+      189,
+      205
+    ],
+    "alt": "Observer vignette after, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/observer-vignette-after-189.webp"
+    ]
+  },
+  {
+    "id": "observer-vignette-before",
+    "report": "Observer Effect",
+    "role": "vignette",
+    "source": "crops/observer-vignette-before.png",
+    "size": [
+      214,
+      205
+    ],
+    "alt": "Observer vignette before, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/observer-vignette-before-214.webp"
+    ]
+  },
+  {
+    "id": "observer-vignette-during",
+    "report": "Observer Effect",
+    "role": "vignette",
+    "source": "crops/observer-vignette-during.png",
+    "size": [
+      195,
+      205
+    ],
+    "alt": "Observer vignette during, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/observer-vignette-during-195.webp"
+    ]
+  },
+  {
+    "id": "protocol-hero-station",
+    "report": "Chainlink",
+    "role": "hero",
+    "source": "crops/protocol-hero-station.png",
+    "size": [
+      930,
+      1085
+    ],
+    "alt": "Protocol hero station, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/protocol-hero-station-480.webp"
+    ]
+  },
+  {
+    "id": "protocol-icon-aggregation",
+    "report": "Chainlink",
+    "role": "icon",
+    "source": "crops/protocol-icon-aggregation.png",
+    "size": [
+      130,
+      82
+    ],
+    "alt": "Protocol icon aggregation, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/protocol-icon-aggregation-130.webp"
+    ],
+    "svg": "svg/protocol-icon-aggregation.svg"
+  },
+  {
+    "id": "protocol-icon-onchain",
+    "report": "Chainlink",
+    "role": "icon",
+    "source": "crops/protocol-icon-onchain.png",
+    "size": [
+      90,
+      83
+    ],
+    "alt": "Protocol icon onchain, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/protocol-icon-onchain-90.webp"
+    ],
+    "svg": "svg/protocol-icon-onchain.svg"
+  },
+  {
+    "id": "protocol-icon-oracle-network",
+    "report": "Chainlink",
+    "role": "icon",
+    "source": "crops/protocol-icon-oracle-network.png",
+    "size": [
+      105,
+      100
+    ],
+    "alt": "Protocol icon oracle network, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/protocol-icon-oracle-network-105.webp"
+    ],
+    "svg": "svg/protocol-icon-oracle-network.svg"
+  },
+  {
+    "id": "protocol-icon-sources",
+    "report": "Chainlink",
+    "role": "icon",
+    "source": "crops/protocol-icon-sources.png",
+    "size": [
+      130,
+      82
+    ],
+    "alt": "Protocol icon sources, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/protocol-icon-sources-130.webp"
+    ],
+    "svg": "svg/protocol-icon-sources.svg"
+  },
+  {
+    "id": "protocol-icon-verification",
+    "report": "Chainlink",
+    "role": "icon",
+    "source": "crops/protocol-icon-verification.png",
+    "size": [
+      150,
+      82
+    ],
+    "alt": "Protocol icon verification, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/protocol-icon-verification-150.webp"
+    ],
+    "svg": "svg/protocol-icon-verification.svg"
+  },
+  {
+    "id": "protocol-landscape-strip",
+    "report": "Chainlink",
+    "role": "strip",
+    "source": "crops/protocol-landscape-strip.png",
+    "size": [
+      1863,
+      460
+    ],
+    "alt": "Protocol landscape strip, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/protocol-landscape-strip-480.webp",
+      "web/protocol-landscape-strip-960.webp",
+      "web/protocol-landscape-strip-1600.webp"
+    ]
+  },
+  {
+    "id": "protocol-logo",
+    "report": "Chainlink",
+    "role": "logo",
+    "source": "crops/protocol-logo.png",
+    "size": [
+      130,
+      125
+    ],
+    "alt": "Protocol logo, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/protocol-logo-130.webp"
+    ],
+    "svg": "svg/protocol-logo.svg"
+  },
+  {
+    "id": "protocol-oracle-layer",
+    "report": "Chainlink",
+    "role": "detail",
+    "source": "crops/protocol-oracle-layer.png",
+    "size": [
+      250,
+      365
+    ],
+    "alt": "Protocol oracle layer, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/protocol-oracle-layer-250.webp"
+    ]
+  },
+  {
+    "id": "protocol-vignette-environment",
+    "report": "Chainlink",
+    "role": "vignette",
+    "source": "crops/protocol-vignette-environment.png",
+    "size": [
+      134,
+      140
+    ],
+    "alt": "Protocol vignette environment, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/protocol-vignette-environment-134.webp"
+    ]
+  },
+  {
+    "id": "protocol-vignette-finance",
+    "report": "Chainlink",
+    "role": "vignette",
+    "source": "crops/protocol-vignette-finance.png",
+    "size": [
+      144,
+      140
+    ],
+    "alt": "Protocol vignette finance, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/protocol-vignette-finance-144.webp"
+    ]
+  },
+  {
+    "id": "protocol-vignette-infrastructure",
+    "report": "Chainlink",
+    "role": "vignette",
+    "source": "crops/protocol-vignette-infrastructure.png",
+    "size": [
+      140,
+      140
+    ],
+    "alt": "Protocol vignette infrastructure, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/protocol-vignette-infrastructure-140.webp"
+    ]
+  },
+  {
+    "id": "waves-big-picture-chart",
+    "report": "Kondratiev Waves",
+    "role": "chart",
+    "source": "crops/waves-big-picture-chart.png",
+    "size": [
+      230,
+      190
+    ],
+    "alt": "Waves big picture chart, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-big-picture-chart-230.webp"
+    ]
+  },
+  {
+    "id": "waves-globe-sketch",
+    "report": "Kondratiev Waves",
+    "role": "detail",
+    "source": "crops/waves-globe-sketch.png",
+    "size": [
+      230,
+      280
+    ],
+    "alt": "Waves globe sketch, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-globe-sketch-230.webp"
+    ]
+  },
+  {
+    "id": "waves-hero",
+    "report": "Kondratiev Waves",
+    "role": "hero",
+    "source": "crops/waves-hero.png",
+    "size": [
+      960,
+      960
+    ],
+    "alt": "Waves hero, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-hero-480.webp",
+      "web/waves-hero-960.webp"
+    ]
+  },
+  {
+    "id": "waves-icon-car",
+    "report": "Kondratiev Waves",
+    "role": "icon",
+    "source": "crops/waves-icon-car.png",
+    "size": [
+      94,
+      115
+    ],
+    "alt": "Waves icon car, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-icon-car-94.webp"
+    ],
+    "svg": "svg/waves-icon-car.svg"
+  },
+  {
+    "id": "waves-icon-computer",
+    "report": "Kondratiev Waves",
+    "role": "icon",
+    "source": "crops/waves-icon-computer.png",
+    "size": [
+      89,
+      115
+    ],
+    "alt": "Waves icon computer, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-icon-computer-89.webp"
+    ],
+    "svg": "svg/waves-icon-computer.svg"
+  },
+  {
+    "id": "waves-icon-industry",
+    "report": "Kondratiev Waves",
+    "role": "icon",
+    "source": "crops/waves-icon-industry.png",
+    "size": [
+      100,
+      115
+    ],
+    "alt": "Waves icon industry, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-icon-industry-100.webp"
+    ],
+    "svg": "svg/waves-icon-industry.svg"
+  },
+  {
+    "id": "waves-icon-train",
+    "report": "Kondratiev Waves",
+    "role": "icon",
+    "source": "crops/waves-icon-train.png",
+    "size": [
+      92,
+      115
+    ],
+    "alt": "Waves icon train, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-icon-train-92.webp"
+    ],
+    "svg": "svg/waves-icon-train.svg"
+  },
+  {
+    "id": "waves-icon-windturbine",
+    "report": "Kondratiev Waves",
+    "role": "icon",
+    "source": "crops/waves-icon-windturbine.png",
+    "size": [
+      97,
+      115
+    ],
+    "alt": "Waves icon windturbine, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-icon-windturbine-97.webp"
+    ],
+    "svg": "svg/waves-icon-windturbine.svg"
+  },
+  {
+    "id": "waves-long-wave-chart",
+    "report": "Kondratiev Waves",
+    "role": "chart",
+    "source": "crops/waves-long-wave-chart.png",
+    "size": [
+      541,
+      215
+    ],
+    "alt": "Waves long wave chart, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-long-wave-chart-480.webp"
+    ]
+  },
+  {
+    "id": "waves-vignette-electronics",
+    "report": "Kondratiev Waves",
+    "role": "vignette",
+    "source": "crops/waves-vignette-electronics.png",
+    "size": [
+      172,
+      190
+    ],
+    "alt": "Waves vignette electronics, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-vignette-electronics-172.webp"
+    ]
+  },
+  {
+    "id": "waves-vignette-information",
+    "report": "Kondratiev Waves",
+    "role": "vignette",
+    "source": "crops/waves-vignette-information.png",
+    "size": [
+      139,
+      190
+    ],
+    "alt": "Waves vignette information, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-vignette-information-139.webp"
+    ]
+  },
+  {
+    "id": "waves-vignette-rail",
+    "report": "Kondratiev Waves",
+    "role": "vignette",
+    "source": "crops/waves-vignette-rail.png",
+    "size": [
+      179,
+      190
+    ],
+    "alt": "Waves vignette rail, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-vignette-rail-179.webp"
+    ]
+  },
+  {
+    "id": "waves-vignette-steam",
+    "report": "Kondratiev Waves",
+    "role": "vignette",
+    "source": "crops/waves-vignette-steam.png",
+    "size": [
+      179,
+      190
+    ],
+    "alt": "Waves vignette steam, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-vignette-steam-179.webp"
+    ]
+  },
+  {
+    "id": "waves-vignette-steel",
+    "report": "Kondratiev Waves",
+    "role": "vignette",
+    "source": "crops/waves-vignette-steel.png",
+    "size": [
+      169,
+      190
+    ],
+    "alt": "Waves vignette steel, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-vignette-steel-169.webp"
+    ]
+  },
+  {
+    "id": "waves-vignette-sustainability",
+    "report": "Kondratiev Waves",
+    "role": "vignette",
+    "source": "crops/waves-vignette-sustainability.png",
+    "size": [
+      192,
+      190
+    ],
+    "alt": "Waves vignette sustainability, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/waves-vignette-sustainability-192.webp"
+    ]
+  },
+  {
+    "id": "worldorders-cycle-diagram",
+    "report": "Changing World Orders",
+    "role": "diagram",
+    "source": "crops/worldorders-cycle-diagram.png",
+    "size": [
+      230,
+      220
+    ],
+    "alt": "Worldorders cycle diagram, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/worldorders-cycle-diagram-230.webp"
+    ]
+  },
+  {
+    "id": "worldorders-figure-globe",
+    "report": "Changing World Orders",
+    "role": "figure",
+    "source": "crops/worldorders-figure-globe.png",
+    "size": [
+      426,
+      259
+    ],
+    "alt": "Worldorders figure globe, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/worldorders-figure-globe-426.webp"
+    ]
+  },
+  {
+    "id": "worldorders-forces-icons",
+    "report": "Changing World Orders",
+    "role": "icon",
+    "source": "crops/worldorders-forces-icons.png",
+    "size": [
+      360,
+      65
+    ],
+    "alt": "Worldorders forces icons, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/worldorders-forces-icons-360.webp"
+    ]
+  },
+  {
+    "id": "worldorders-hero-globe",
+    "report": "Changing World Orders",
+    "role": "hero",
+    "source": "crops/worldorders-hero-globe.png",
+    "size": [
+      1037,
+      1024
+    ],
+    "alt": "Worldorders hero globe, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/worldorders-hero-globe-480.webp",
+      "web/worldorders-hero-globe-960.webp"
+    ]
+  },
+  {
+    "id": "worldorders-map-bipolar",
+    "report": "Changing World Orders",
+    "role": "map",
+    "source": "crops/worldorders-map-bipolar.png",
+    "size": [
+      270,
+      120
+    ],
+    "alt": "Worldorders map bipolar, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/worldorders-map-bipolar-270.webp"
+    ]
+  },
+  {
+    "id": "worldorders-map-imperial",
+    "report": "Changing World Orders",
+    "role": "map",
+    "source": "crops/worldorders-map-imperial.png",
+    "size": [
+      270,
+      135
+    ],
+    "alt": "Worldorders map imperial, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/worldorders-map-imperial-270.webp"
+    ]
+  },
+  {
+    "id": "worldorders-map-multipolar",
+    "report": "Changing World Orders",
+    "role": "map",
+    "source": "crops/worldorders-map-multipolar.png",
+    "size": [
+      270,
+      115
+    ],
+    "alt": "Worldorders map multipolar, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/worldorders-map-multipolar-270.webp"
+    ]
+  },
+  {
+    "id": "worldorders-vignette-chess",
+    "report": "Changing World Orders",
+    "role": "vignette",
+    "source": "crops/worldorders-vignette-chess.png",
+    "size": [
+      290,
+      195
+    ],
+    "alt": "Worldorders vignette chess, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/worldorders-vignette-chess-290.webp"
+    ]
+  },
+  {
+    "id": "worldorders-vignette-flags",
+    "report": "Changing World Orders",
+    "role": "vignette",
+    "source": "crops/worldorders-vignette-flags.png",
+    "size": [
+      235,
+      195
+    ],
+    "alt": "Worldorders vignette flags, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/worldorders-vignette-flags-235.webp"
+    ]
+  },
+  {
+    "id": "worldorders-vignette-orrery",
+    "report": "Changing World Orders",
+    "role": "vignette",
+    "source": "crops/worldorders-vignette-orrery.png",
+    "size": [
+      215,
+      195
+    ],
+    "alt": "Worldorders vignette orrery, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/worldorders-vignette-orrery-215.webp"
+    ]
+  },
+  {
+    "id": "worldorders-vignette-tower",
+    "report": "Changing World Orders",
+    "role": "vignette",
+    "source": "crops/worldorders-vignette-tower.png",
+    "size": [
+      215,
+      195
+    ],
+    "alt": "Worldorders vignette tower, monochrome retro-futurist pencil concept art",
+    "web": [
+      "web/worldorders-vignette-tower-215.webp"
+    ]
+  }
+]
